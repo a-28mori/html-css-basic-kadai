@@ -1,8 +1,7 @@
 #top{
   width: 800px;
   background-color: #dcc9f4;
-  padding: 20px 0px;
-  margin: 0 auto;
+  margin: 20px auto;
   text-align: center;
 }
 p.top-child{
@@ -14,8 +13,7 @@ p.top-child{
   position: relative;
   width: 800px;
   height: 800px;
-  padding: 20px 0px;
-  margin: 0 auto;
+  margin: 20px auto;
   background-color: #ffd9df;
 }
 #middle div{
@@ -41,7 +39,7 @@ p.top-child{
 #bottom{
   width: 800px;
   height: 300px;
-  margin: 0 auto;
+  margin: 20px auto;
   background-color: #87ceeb;
 }
 #bottom div{
